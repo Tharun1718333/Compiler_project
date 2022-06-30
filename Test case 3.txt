@@ -1,0 +1,38 @@
+int k ;
+int j ;
+int i ;
+int m ;
+print ( "kohli" ) ;
+print ( "kohli" ) ;
+while ( i < j )
+{
+
+}
+if ( i < j )
+{
+
+}
+if ( i < j )
+{
+
+}
+while ( i < j )
+{
+    
+}
+
+
+
+
+************************************************
+OUTPUT
+reduce print stament
+reduce print stament
+reduce conditional statement found
+while loop 
+reduce conditional statement found
+reduce if statment
+reduce conditional statement found
+reduce if statment
+reduce conditional statement found
+while loop

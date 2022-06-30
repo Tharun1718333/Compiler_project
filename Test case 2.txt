@@ -1,0 +1,37 @@
+int k ;
+int j ;
+int i ;
+int m ;
+if ( k < j )
+{
+    if ( k <  j )
+    {
+        print ( "kohli" );
+        print ( "dhoni" );
+    }
+}
+if ( k < j )
+{
+    if ( k <  j )
+    {
+        print ( "kohli" );
+        print ( "dhoni" );
+    }
+}
+
+
+
+**************************************
+OUTPUT:-
+reduce conditional statement found
+reduce conditional statement found
+reduce print stament
+reduce print stament
+reduce if statment
+reduce if statment
+reduce conditional statement found
+reduce conditional statement found
+reduce print stament
+reduce print stament
+reduce if statment
+reduce if statment

@@ -1,0 +1,26 @@
+int i ;
+int j ;
+while ( i < j )
+{
+    print ( "kohli" ) ;
+}
+while ( j  < i )
+{
+    if ( j >> i )
+    {
+        print ( "dhoni" ) ;
+    }
+}
+
+
+
+*******************************************
+Ouput:-
+reduce conditional statement found
+reduce print stament
+while loop
+reduce conditional statement found
+wrong declaration of Conditional statement
+wrong condition in if
+reduce print stament
+while loop
